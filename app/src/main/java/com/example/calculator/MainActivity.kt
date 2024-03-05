@@ -46,10 +46,6 @@ class MainActivity : ComponentActivity() {
                             .fillMaxSize()
                             .background(Color.DarkGray)
                             .padding(19.dp)
-                        
-                        ggbuutg8guhuhuihugu
-                        ctcyticiticxtri
-                        vtyctyfiyctrxtr
                     )
             }
         }
